@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Sukhseerat+Kaur;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Drishti+Rai;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
 </p>
 
 
