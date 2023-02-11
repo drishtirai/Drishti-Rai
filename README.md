@@ -18,7 +18,7 @@
 </p>
 <br>
 
-I'm a 2nd year undergraduate student in Computer Science with an interest in App Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.
+I'm a 3nd year undergraduate student in Computer Science with an interest in App Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.
 <br>
 <br>
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
