@@ -27,7 +27,7 @@ I'm a 3rd year undergraduate student in Computer Science with an interest in App
 - 🔭 I’m currently working on Outlay <br>
 - 🌱 I’m currently learning React <br>
 - 👯 I’m looking to collaborate on Frontend Projects <br>
-- 📫 How to reach me: drishtiskn00@gmail.com <br>
+- 📫 How to reach me : drishtiskn00@gmail.com <br>
 
 <br><br>
 
