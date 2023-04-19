@@ -24,7 +24,7 @@ I'm a 3rd year undergraduate student in Computer Science with an interest in App
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
 
 
-- 🔭 I’m currently working on Outlay <br>
+- 🔭 I’m currently working on KONIS-PHARMACEUTICALS <br>
 - 🌱 I’m currently learning React <br>
 - 👯 I’m looking to collaborate on Frontend Projects <br>
 - 📫 How to reach me : drishtiskn00@gmail.com <br>
